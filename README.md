@@ -4,7 +4,7 @@ I'm a passionate **Full-stack Developer** with experience in both frontend and b
 
 - **Frontend:** React, Next.js, Angular  
 - **Backend:** NestJS  
-- **Languages:** TypeScript (primary), currently learning Go and Java  
+- **Languages:** TypeScript (primary), currently learning Go
 
 ### 👀 Interests  
 I'm interested in building scalable web applications, exploring new technologies, and improving my software architecture skills.
